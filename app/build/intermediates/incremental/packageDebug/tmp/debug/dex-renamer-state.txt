@@ -1,0 +1,4 @@
+#Sun Aug 15 08:35:28 IST 2021
+base.0=C\:\\Users\\ASUS\\AndroidStudioProjects\\Android-Attendance-App-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
